@@ -1,8 +1,0 @@
-ejemplos erp
-odoo
-dolibar
-sugarcrm
-
-SAP
-Sage
-Microsoft Dynamics
